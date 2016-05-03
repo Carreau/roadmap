@@ -10,8 +10,8 @@ title: Project Jupyter and IPython Roadmaps
 email: projectJupyter@googlegroups.com
 description: > 
   These are the roadmaps for various subprojects of Jupyter.org
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jupyter.org" # the base hostname & protocol for your site
+baseurl: "/roadmap" # the subpath of your site, e.g. /blog
+url: "http://jupyter.github.io/" # the base hostname & protocol for your site
 twitter_username: projectJupyter
 github_username:  jupyter
 
