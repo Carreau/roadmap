@@ -1,3 +1,7 @@
+---
+title: Roadmap
+---
+
 # Project Jupyter Roadmap
 
 The following is a very rough outline of the roadmap for Project Jupyter and IPython.

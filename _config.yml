@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Project Jupyter and IPython Roadmaps
+email: projectJupyter@googlegroups.com
+description: > 
+  These are the roadmaps for various subprojects of Jupyter.org
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jupyter.org" # the base hostname & protocol for your site
+twitter_username: projectJupyter
+github_username:  jupyter
+
+# Build settings
+markdown: kramdown
+
+collections:
+  - roadmaps
